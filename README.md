@@ -1,6 +1,6 @@
-📦 Inventory Helm – Aplikasi Manajemen Inventaris Helm
+📦 Inventory Helm – Aplikasi Manajemen Inventory Helm
 
-Inventory Helm adalah aplikasi desktop berbasis Java yang dibuat untuk membantu toko
+Program ini merupakan aplikasi desktop berbasis Java yang dibuat untuk membantu toko
 helm dalam mengelola data barang, barang masuk/keluar, dan laporan data secara efisien.
 Aplikasi ini dikembangkan secara berkelompok menggunakan NetBeans, dan diakhiri dengan
 pembuatan installer .msi untuk memudahkan proses instalasi.
